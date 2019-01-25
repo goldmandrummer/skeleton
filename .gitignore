@@ -34,7 +34,12 @@ Thumbs.db
 UserInterfaceState.xcuserstate
 
 
-# GitHub default for Node (removed duplicates with Ionic)
+
+#
+#
+#  GitHub default for Node (removed duplicates with Ionic)
+#
+#
 
 # Logs
 logs
@@ -92,4 +97,3 @@ typings/
 
 # next.js build output
 .next
->>>>>>> 65b203030d418bde222714a296b2dac272e33add
